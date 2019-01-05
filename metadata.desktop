@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=ActKwik
+Icon=preferences-system-windows-script-test
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+X-KWin-Exclude-Listing=false
+
+X-KDE-PluginInfo-Author=Adam Rutkowski
+X-KDE-PluginInfo-Email=actkwik@mtod.org
+X-KDE-PluginInfo-Name=actkwik
+X-KDE-PluginKeyword=actkwik
+X-KDE-ParentComponents=actkwik
+X-KDE-PluginInfo-Version=1.0.0
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Script,KCModule
+X-KDE-Library=kwin/effects/configs/kcm_kwin4_genericscripted
+Type=Service
